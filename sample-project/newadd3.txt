@@ -1,1 +1,2 @@
 This is for new branch sample-project_b2
+This line is being written to test merge.
